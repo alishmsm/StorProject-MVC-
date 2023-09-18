@@ -1,0 +1,12 @@
+H:\CsharpProject\Store\Store.Coomon\bin\Debug\net7.0\Store.Coomon.deps.json
+H:\CsharpProject\Store\Store.Coomon\bin\Debug\net7.0\Store.Coomon.dll
+H:\CsharpProject\Store\Store.Coomon\bin\Debug\net7.0\Store.Coomon.pdb
+H:\CsharpProject\Store\Store.Coomon\obj\Debug\net7.0\Store.Coomon.csproj.AssemblyReference.cache
+H:\CsharpProject\Store\Store.Coomon\obj\Debug\net7.0\Store.Coomon.GeneratedMSBuildEditorConfig.editorconfig
+H:\CsharpProject\Store\Store.Coomon\obj\Debug\net7.0\Store.Coomon.AssemblyInfoInputs.cache
+H:\CsharpProject\Store\Store.Coomon\obj\Debug\net7.0\Store.Coomon.AssemblyInfo.cs
+H:\CsharpProject\Store\Store.Coomon\obj\Debug\net7.0\Store.Coomon.csproj.CoreCompileInputs.cache
+H:\CsharpProject\Store\Store.Coomon\obj\Debug\net7.0\Store.Coomon.dll
+H:\CsharpProject\Store\Store.Coomon\obj\Debug\net7.0\refint\Store.Coomon.dll
+H:\CsharpProject\Store\Store.Coomon\obj\Debug\net7.0\Store.Coomon.pdb
+H:\CsharpProject\Store\Store.Coomon\obj\Debug\net7.0\ref\Store.Coomon.dll

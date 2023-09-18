@@ -1,0 +1,12 @@
+H:\CsharpProject\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.deps.json
+H:\CsharpProject\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.dll
+H:\CsharpProject\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.pdb
+H:\CsharpProject\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.AssemblyReference.cache
+H:\CsharpProject\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\CsharpProject\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfoInputs.cache
+H:\CsharpProject\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfo.cs
+H:\CsharpProject\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.CoreCompileInputs.cache
+H:\CsharpProject\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.dll
+H:\CsharpProject\Store\Store.Domain\obj\Debug\net7.0\refint\Store.Domain.dll
+H:\CsharpProject\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.pdb
+H:\CsharpProject\Store\Store.Domain\obj\Debug\net7.0\ref\Store.Domain.dll
